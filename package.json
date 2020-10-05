@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "dev": "yarn --cwd ./koa dev & yarn --cwd ./svelte dev"
+  }
+}

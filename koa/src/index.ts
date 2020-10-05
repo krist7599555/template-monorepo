@@ -11,7 +11,7 @@ const db = {
     { id: uniqueId(), name: 'velody' },
     { id: uniqueId(), name: 'piew' },
     { id: uniqueId(), name: 'pinn' },
-    { id: uniqueId(), name: 'poom' },
+    { id: uniqueId(), name: 'pooms' },
   ],
 }
 
